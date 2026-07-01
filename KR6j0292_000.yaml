@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0292/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩如意輪念誦儀軌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1085.xml
+    old_id: T20n1085
+hash: sha256:a33f97b5c755c5c20b69871401e84b285430d98ae97aaedd8cfef56737d1d63c

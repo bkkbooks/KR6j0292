@@ -1,0 +1,40 @@
+canonical_identifier: bkk:krp/KR6j0292/T/v1
+canonical_location: https://kanripo.org/bkk/KR6j0292/T/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 觀自在菩薩如意輪念誦儀軌
+  identifiers:
+    krp: KR6j0292
+    cbeta: T20n1085
+    cbeta_old_id: T20n1085
+    authorityid: CA0001266
+    json_key: T1085
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1085.xml
+    old_id: T20n1085
+  edition:
+    short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0292_000-T.yaml, hash: 'sha256:a33f97b5c755c5c20b69871401e84b285430d98ae97aaedd8cfef56737d1d63c'}
+  - {seq: 1, filename: KR6j0292_001-T.yaml, hash: 'sha256:d4ae1f28581d425163771442fa35eec3f9acc9f35da50da7194dbb904aa831f7'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0292_000-T.markers.yaml, hash: 'sha256:6e6fc0b387bd7df627bba7a1ac2c0c2c76c1a8ac710b5e86d23071403b33c66e'}
+  - {seq: 1, role: markers, filename: assets/KR6j0292_001-T.markers.yaml, hash: 'sha256:aa739a6f8a4489e3f275322a3d709bc3fc041533fb2f2c0ac105f096de1ec33f'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0292_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 3349
+  label: '觀自在菩薩如意輪念誦儀軌一
+
+    卷'
+  type: juan
+  level: 1
+hash: sha256:5a74489e8cb210dada3aede9f7ab97d93c971d7d3d6caaffdbca81f0b29a6651
